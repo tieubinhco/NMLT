@@ -22,4 +22,5 @@ void main()
     printf("Average score is %.2f",TB);
     getch();
 
+
 }
